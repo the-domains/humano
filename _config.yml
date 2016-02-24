@@ -1,0 +1,28 @@
+name: humano
+favicon: null
+layout_spectrum: 0.42209676071070135
+typography_spectrum: 0.8435827016364783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8943750222679228
+  lightness: 0.9376741179730743
+  saturation: 0.25392946717329323
+  rhythmicContrast: 0.16918652667663991
+purpose: []
